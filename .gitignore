@@ -1,3 +1,5 @@
 *.ipynb_checkpoints
 /test
 /back
+data/Distance_Learning_Data.xlsx
+/data/imgs
