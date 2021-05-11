@@ -39,13 +39,13 @@ NLP analysis on survey's open-ended questions about the sars-covid-19 pandemic a
 
 ### Respondents Analysis
 
-![](https://github.com/guidomitolo/survey/blob/master/cat_basic_var.png| width=75)
+![](https://github.com/guidomitolo/survey/blob/master/cat_basic_var.png)
 
 ### Topics
 
 #### Are you doing other things at home to learn, aside from radio lessons? What are you doing? 
-![](https://github.com/guidomitolo/survey/blob/master/plotly/activities.jpg | width=50)
+![](https://github.com/guidomitolo/survey/blob/master/plotly/activities.jpg)
 #### Do you feel worried about your health due to studying/being at home during COVID-19?
 Why yes? | Why not?
 :-------------------------:|:-------------------------:
-![](https://github.com/guidomitolo/survey/blob/master/plotly/health_no_group.jpg | width=50)  |  ![](https://github.com/guidomitolo/survey/blob/master/plotly/health_yes_group.jpg | width=50)
+![](https://github.com/guidomitolo/survey/blob/master/plotly/health_no_group.jpg)  |  ![](https://github.com/guidomitolo/survey/blob/master/plotly/health_yes_group.jpg)
