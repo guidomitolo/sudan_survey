@@ -1,8 +1,8 @@
 ### Survey
-\
+<br>
 NLP analysis on survey's open-ended questions about the sars-covid-19 pandemic and education in South Sudan.
-\
-\
+<br>
+<br>
 | Questions | Num. Answers |
 | --- | --- |
 | Q34_Are you doing other things at home to learn, aside from radio lessons? | 1499 |
@@ -37,15 +37,28 @@ NLP analysis on survey's open-ended questions about the sars-covid-19 pandemic a
 | Q61_When schools re-open, do you think your school will have measures in place to ensure a safe learning environment? | 3923 |
 | Q62_Why or why not? | 3923 |
 | Q63_What are your concerns about returning to school? | 3923 |
-\
-\
+<br>
+<br>
 ### Respondents Analysis
-\
-\
+<br>
+<br>
 ![](https://github.com/guidomitolo/survey/blob/master/cat_basic_var.png| width=75)
-\
-\
+<br>
+<br>
 ### Topics
-\
-\
+<br>
+<br>
+#### Are you doing other things at home to learn, aside from radio lessons? What are you doing? 
 ![](https://github.com/guidomitolo/survey/blob/master/plotly/activities.jpg | width=50)
+<br>
+#### Do you feel worried about your health due to studying/being at home during COVID-19?
+Why yes? | Why not?
+:-------------------------:|:-------------------------:
+![](https://github.com/guidomitolo/survey/blob/master/plotly/health_no_group.jpg | width=50)  |  ![](https://github.com/guidomitolo/survey/blob/master/plotly/health_yes_group.jpg | width=50)
+<br>
+
+<br>
+
+<br>
+
+<br>
