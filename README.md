@@ -52,9 +52,7 @@ NLP analysis on survey's open-ended questions about the sars-covid-19 pandemic a
 ![](https://github.com/guidomitolo/survey/blob/master/plotly/activities.jpg | width=50)
 <br>
 #### Do you feel worried about your health due to studying/being at home during COVID-19?
-Why yes? | Why not?
-:-------------------------:|:-------------------------:
-![](https://github.com/guidomitolo/survey/blob/master/plotly/health_no_group.jpg | width=50)  |  ![](https://github.com/guidomitolo/survey/blob/master/plotly/health_yes_group.jpg | width=50)
+
 <br>
 
 <br>
