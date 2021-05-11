@@ -2,6 +2,7 @@
 
 NLP analysis on survey's open-ended questions about the sars-covid-19 pandemic and education in South Sudan.
 
+
 | Questions | Num. Answers |
 | --- | --- |
 | Q34_Are you doing other things at home to learn, aside from radio lessons? | 1499 |
@@ -37,8 +38,13 @@ NLP analysis on survey's open-ended questions about the sars-covid-19 pandemic a
 | Q62_Why or why not? | 3923 |
 | Q63_What are your concerns about returning to school? | 3923 |
 
+
 ### Respondents Analysis
+
 
 ![](https://github.com/guidomitolo/survey/blob/master/cat_basic_var.png)
 
+
 ### Topics
+
+![](https://github.com/guidomitolo/survey/blob/master/plotly/activities.jpg)
