@@ -98,12 +98,11 @@ Level | Location
 
 
 #### What is the quality of the radio lessons? How can the radio lessons be improved?
-
 ##### Radio lessons no good
 
-Gender | Age
+Title | Age
 :-------------------------:|:-------------------------:
-![](https://github.com/guidomitolo/survey/blob/master/data/imgs/clouds/radio_lessons_improv_ngood_gender.jpeg)  |  ![](https://github.com/guidomitolo/survey/blob/master/data/imgs/clouds/radio_lessons_improv_ngood_age.jpeg)
+![](https://github.com/guidomitolo/survey/blob/master/data/imgs/clouds/radio_lessons_improv_ngood_title.jpeg)  |  ![](https://github.com/guidomitolo/survey/blob/master/data/imgs/clouds/radio_lessons_improv_ngood_age.jpeg)
 
 Level | Location
 :-------------------------:|:-------------------------:
