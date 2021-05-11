@@ -39,6 +39,6 @@ NLP analysis on survey's open-ended questions about the sars-covid-19 pandemic a
 
 ### Respondents Analysis
 
-![](https://github.com/guidomitolo/survey/cat_basic_var.png)
+![](https://github.com/guidomitolo/survey/blob/master/cat_basic_var.png)
 
 ### Topics
